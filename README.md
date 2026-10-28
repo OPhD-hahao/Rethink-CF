@@ -7,7 +7,6 @@
 
 [Hayeon Oh](https://ophd-hahao.github.io/), [Donghwan Lee](https://scholar.google.com/citations?user=OpuJ-i4AAAAJ&hl=en) 
 
-KAIST
 
 </div>
 
