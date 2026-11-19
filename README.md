@@ -15,7 +15,7 @@ Release Plan
 --- 
 `26.11` : Camera-ready paper
 
-`26.12` : Public release (dataset, training, analysis, and auto-labeling)
+`26.12` : Code and Documentation (dataset, training, analysis, and auto-labeling)
 
      
 Citation
